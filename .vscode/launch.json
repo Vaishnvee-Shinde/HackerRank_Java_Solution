@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Welcometo_Java",
+            "request": "launch",
+            "mainClass": "Welcometo_Java",
+            "projectName": "HackerRank_Java_Solution_df427d6c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "HackerRank_Java_Solution_df427d6c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch and$Solution",
+            "request": "launch",
+            "mainClass": "and$Solution",
+            "projectName": "HackerRank_Java_Solution_df427d6c"
+        }
+    ]
+}
