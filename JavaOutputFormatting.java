@@ -44,7 +44,7 @@ Each String is left-justified with trailing whitespace through the first  charac
 
 import java.util.Scanner;
 
-public class Solution {
+public class JavaOutputFormatting {
 
     public static void main(String[] args) {
             Scanner sc=new Scanner(System.in);
